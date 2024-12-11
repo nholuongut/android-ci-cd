@@ -1,29 +1,10 @@
-## Android CI/CD pipeline architecture
+# Android CI/CD pipeline architecture
 
 ![](https://i.imgur.com/waxVImv.png)
 ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
-<br/>
 
-<p align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/nholuongut/android-ci-cd">
-<img alt="CI Badge" src="https://img.shields.io/badge/CI%20(main)-passing-brightgreen?logo=github"> 
-<img alt="CD Badge" src="https://img.shields.io/badge/CD%20(main)-passing-brightgreen?logo=github"> 
-<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nholuongut/android-ci-cd/main?color=%238A2BE2">
-</p>
-<p align="center">
-<img alt="Gradle Plugin Portal" src="https://img.shields.io/gradle-plugin-portal/v/org.sonarqube?label=sonarqube%20-%20org.gradle">
-<img alt="Maven Central" src="https://img.shields.io/maven-central/v/junit/junit?label=junit4%20-%20maven">
+![](./architecture.jpg)
 
-  ![](https://i.imgur.com/waxVImv.png)
-
-# Roadmaps are now interactive, you can click the nodes to read more about the topics.
-
-### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
-
-![](https://i.imgur.com/waxVImv.png)
-
-</p>
-<br>
 <p>
   Hello there! Android devs👋, This article how to develop and maintain easy building, flexible maintenance, automated deployment and other DevOps operations for android applications using GitHub Actions and deployment in Google Play Store! Lets go 🚀  
 </p>
@@ -40,6 +21,10 @@ CI stands for **_Continuous Integration_**, which is a development practice that
 ### What is meant by CD ?
 
 CD stands for **_Continuous Delivery_**, which is an automated process of deploying and making the application available successfully to use. The CD process is started only when the application has passed through the integration process and tested with no critical issues.
+
+### CI/CD for Android App
+
+![](./Android.jpg)
 
 # CI pipeline
 
@@ -437,4 +422,3 @@ Thats it! Congrats for deploying you Android app on Play Store 😀✅
 ![](https://i.imgur.com/waxVImv.png)
 # License🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳
 * Nho Luong (c). All Rights Reserved.🌟
-
